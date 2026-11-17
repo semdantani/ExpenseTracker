@@ -153,3 +153,29 @@ The application uses Microsoft SQL Server as its primary database. Entity Framew
 GitHub: https://github.com/semdantani
 
 LinkedIn: https://linkedin.com/in/sampat-dantani/
+
+## Screenshots
+
+### Register
+
+![Register](screenshots/register.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Expenses
+
+![Expenses](screenshots/expenses.png)
+
+### Budgets
+
+![Budgets](screenshots/budgets.png)
+
+### Recurring Expenses
+
+![Recurring Expenses](screenshots/recurring-expenses.png)
+
+### CSV Import
+
+![CSV Import](screenshots/csv-import.png)
