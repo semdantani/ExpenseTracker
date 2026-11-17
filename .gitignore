@@ -1,0 +1,38 @@
+
+# Visual Studio
+.vs/
+.vscode/
+.idea/
+
+# .NET build files
+**/bin/
+**/obj/
+*.user
+*.suo
+
+# React / Node
+**/node_modules/
+**/dist/
+**/build/
+**/coverage/
+npm-debug.log*
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Database files
+*.mdf
+*.ldf
+*.db
+*.sqlite
+
+# Application configuration containing secrets
+**/appsettings.json
+**/appsettings.Development.json
+**/appsettings.Production.json
+
+# OS files
+.DS_Store
+Thumbs.db
